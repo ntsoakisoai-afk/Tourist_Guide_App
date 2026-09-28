@@ -4,7 +4,8 @@
   "description": "A Tourist Guide full-stack web application",
   "main": "server.js",
   "scripts": {
-    "start": "node --env-file=.env server.js"
+    "start": "node server.js"
+  }
   },
   "keywords": [],
   "author": "",
